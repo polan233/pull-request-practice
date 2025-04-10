@@ -4,28 +4,11 @@
 请自由地fork并发送pull request，我会merge的。
 
 
-<!--
-## 关于自动merge🌱
-生成pull request后，选择右菜单"label"中粉色的'MeargeCat',就会被自动merge。🙌
-<a href="https://gyazo.com/416761e05663436b57875d579b6c3405"><img src="https://i.gyazo.com/416761e05663436b57875d579b6c3405.gif" alt="https://gyazo.com/416761e05663436b57875d579b6c3405" width="960"/></a>
--->
-
-<!--
-##找不到 「Compare & pull request」按钮的时候
-有《和Wakaba酱一起学Git》的读者反馈，**在GitHub上找不到「Compare & pull request」按钮**。
-
-好像有的时候「Compare & pull request」按钮显示不出来。下面的博客介绍了对应的方法，希望对你有帮助。
-
-
-[GitHub上显示pull request的方法：找不到「Compare & pull request」按钮的时候 ](http://webdesign-manga.com/post-919/)
--->
-
-
 ## 关联书籍
-<a href="https://press.ustc.edu.cn" target="_blank">
-<img src="http://webdesign-manga.com/wp-content/uploads/2017/03/C4XnLc6UoAAJNrS-212x300.jpg" alt="和Wakaba酱一起学Git" width="200" /></a>
+<a href="https://book.douban.com/subject/35274988/" target="_blank">
+<img src="https://img2.doubanio.com/view/subject/l/public/s33773441.jpg" alt="和Wakaba酱一起学Git" width="200" /></a>
 
-<a href="https://press.ustc.edu.cn" target="_blank">《和Wakaba酱一起学Git》</a>
+<a href="https://book.douban.com/subject/35274988/" target="_blank">《和Wakaba酱一起学Git》</a>
 
 出版社：中国科学技术大学出版社
 
@@ -41,17 +24,15 @@
 
 和Git初学者Wakaba酱一起，快乐地掌握Git吧！
 
-<!--
-<a href="https://www.amazon.co.jp/dp/4863542178" target="_blank">试读请点这里</a>
--->
+
 <img src="https://pbs.twimg.com/media/C-E-okEUwAA9ILA.jpg" width="150px">
 
 
 ## 还有关联资源！Wakaba酱系列
 
-<a href="https://press.ustc.edu.cn" target="_blank"><img class="aligncenter size-large wp-image-480" src="http://webdesign-manga.com/wp-content/uploads/2016/06/image-721x1024.jpeg" alt="和Wakaba酱一起学网站制作" width="200" /></a>
+<a href="https://book.douban.com/subject/35274989/" target="_blank"><img class="aligncenter size-large wp-image-480" src="https://img9.doubanio.com/view/subject/l/public/s33773445.jpg" alt="和Wakaba酱一起学网站制作" width="200" /></a>
 
-<a href="https://press.ustc.edu.cn" target="_blank">《和Wakaba酱一起学网站制作》 </a>
+<a href="https://book.douban.com/subject/35274989/" target="_blank">《和Wakaba酱一起学网站制作》 </a>
 
 出版社：中国科学技术大学出版社
 
@@ -76,7 +57,4 @@
 
 Wakaba酱会和HTML酱们成为好朋友么？
 
-<!--
-<a href="http://www.amazon.co.jp/dp/4863541945" target="_blank">试读请点这里</a>
--->
 <img src="https://pbs.twimg.com/media/C9RNDPIVwAAXAAu.jpg" width="150px">
