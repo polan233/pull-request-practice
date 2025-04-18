@@ -59,4 +59,7 @@ Wakaba酱会和HTML酱们成为好朋友么？
 
 <img src="https://pbs.twimg.com/media/C9RNDPIVwAAXAAu.jpg" width="150px">
 \nMy contribution by scx
+
+# 这是我的修改
+
 "This is a test contribution from gali" 
