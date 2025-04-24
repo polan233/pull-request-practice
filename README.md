@@ -1,8 +1,7 @@
 # pull-request-practice
 练习pull request专用仓库。
 
-请自由地fork并发送pull request，我会merge的。
-test here （--He）
+请自由地fork并发送pull request（建立新的文件做编辑，不要改README），我会merge的。
 
 ## 关联书籍
 <a href="https://book.douban.com/subject/35274988/" target="_blank">
