@@ -59,8 +59,4 @@ Wakaba酱会和HTML酱们成为好朋友么？
 
 <img src="https://pbs.twimg.com/media/C9RNDPIVwAAXAAu.jpg" width="150px">
 
-## 请大家自己创建新txt文件做修改，在这里改容易冲突
-\nMy contribution by scx
-My changes
-这是我的修改
-"This is a test contribution from gali" 
+<font size=100>请大家自己创建新txt文件做修改，在这里改容易冲突</font>
